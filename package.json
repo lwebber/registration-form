@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/lwebber/registration-form/issues"
   },
-  "homepage": "https://github.com/lwebber/registration-form#readme"
+  "homepage": "https://github.com/lwebber/registration-form#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
